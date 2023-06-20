@@ -41,7 +41,7 @@ async function init() {
         const paragraph = document.createElement('p');
         paragraph.className = 'paragraph';
         console.log(metadata)
-        paragraph.innerHTML = `f/${metadata.FNumber}&nbsp${metadata.FocalLength}mm&nbsp${metadata.ExposureTime}s&nbspISO ${metadata.ISO}`;
+        paragraph.innerHTML = `f/${metadata.FNumber}&nbsp${metadata.FocalLength}mm&nbsp${metadata.ExposureTime.toFixed(2)}s&nbspISO ${metadata.ISO}`;
 
         div.appendChild(img);
         div.appendChild(paragraph);
