@@ -1,9 +1,9 @@
 import exifr from 'exifr';
 
-import json from "../assets/images/images.json"
+import json from "../assets/images.json" // JSON file with image names in assets directory, since files can't be imported from public directory
 
 const grid = document.querySelector('.basic-grid');
-const dir = "../assets/images/"
+const dir = "../images/" // Public directory for images (static assets)
 
 async function getMetadata(image) {
     try {
