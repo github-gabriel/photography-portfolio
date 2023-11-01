@@ -5,8 +5,45 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a856e874-4103-4d61-8c7a-d3f6fd495263" name="Changes" comment="Only show best photos">
-      <change beforePath="$PROJECT_DIR$/public/assets/images/PANA3034.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/images/images.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/images/images.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CNAME" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/momcake/MomcakeBold-WyonA.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/momcake/MomcakeThin-9Y6aZ.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/momcake/info.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/momcake/misc/Readme.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/singo/Singo-eZnze.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/singo/SingoItalic-WymEV.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/singo/info.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/singo/misc/README.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/typo/TypoGrotesk-rqop.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/typo/TypoGroteskBlack-M9ow.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/typo/TypoGroteskBlackItalic-KaXA.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/typo/TypoGroteskBold-2Kxl.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/typo/TypoGroteskBoldItalic-vqW7.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/typo/TypoGroteskItalic-l7mX.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/typo/TypoGroteskThin-ndPM.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/typo/TypoGroteskThinItalic-1M3L.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/typo/info.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/typo/misc/Read_Me-367a.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/typo/misc/typogrotesk_testscreen-716a.url" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/PANA0737.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/PANA2741_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/PANA3034.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/PANA3315.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/PANA3345.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/PANA3484.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/images.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/photos.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/about.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/MomcakeBold-WyonA-6e086951.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/Singo-eZnze-18ae8d8c.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/TypoGrotesk-rqop-5ad78080.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/index-5681fe6e.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/index-be8e5417.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/style/about.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/style/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/style/photos.css" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,29 +58,33 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2R1rxdIp1OGzuoWmb1nRqH1xr29" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/Windows/Desktop/Fotografie/Fotografie Portfolio/fotografie-portfolio/public/assets/images",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Windows/Desktop/Fotografie/Fotografie Portfolio/fotografie-portfolio/public/assets/images&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Windows\Desktop\Fotografie\Fotografie Portfolio\fotografie-portfolio\public\assets\images" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Windows\Desktop\Fotografie\Fotografie Portfolio\fotografie-portfolio" />
       <recent name="D:\Windows\Desktop\Fotografie\Fotografie Portfolio\fotografie-portfolio\public\assets\images" />
     </key>
   </component>

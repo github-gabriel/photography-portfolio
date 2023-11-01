@@ -1,0 +1,1 @@
+.container{display:grid;grid-gap:0;padding:18% 10% 5%;grid-template-columns:repeat(auto-fit,1fr)}.text{max-width:80%;font-family:Times New Roman,serif;font-size:20px;margin:0 auto}#name{font-family:Singo;font-size:70px}@media screen and (max-width: 298px){.text{padding-top:70px}}
