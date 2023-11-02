@@ -10,6 +10,7 @@ Um den ```dev``` Server zu starten, gut um laufend Änderungen an der Webseite v
 ```
 npm run dev
 ```
+Daraufhin sollte die Website unter  http://localhost:5173/ erreichbar sein.
 
 ### Prod
 
@@ -17,7 +18,6 @@ Um die Website für Production zu builden, nachdem man zufrieden mit den vorgeno
 ```
 npm run build
 ```
-Daraufhin sollte die Website unter  http://localhost:5173/ erreichbar sein.
 
 Final, um die fertige Website (aus dem ```dist``` Ordner) auf einem lokalen Server zu begutachten
 ```
