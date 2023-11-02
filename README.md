@@ -1,6 +1,7 @@
 # Photography Portfolio
 
-Eine mit Vite erstellte Website, die statische Assets (unter dem ```public``` Ordner auffindbar) dynamisch über JavaScript laden kann. 
+Eine mit Vite erstellte Website, die statische Assets (in diesem Fall Fotos, unter dem ```public``` Ordner auffindbar) dynamisch über JavaScript laden kann. Als Inspiration für diese Seite diente die Seite
+des Fotografen Franco Pagetti http://www.francopagetti.com/.
 
 # Setup
 
